@@ -1,5 +1,5 @@
 # 💫 Olá Mundo!
-📡 Sou entusiasta na área de Dev e Cybersegurança/Hacking<br>👨🏻‍💻 Cursando Ciência da Computação na Universidade do Vale do Itajaí, Brasil<br>💭 Atualmente aprendendo Flutter e Hacking
+📡 Sou entusiasta na área de Dev e Cybersegurança/Hacking<br>👨🏻‍💻 Cursando Ciência da Computação na Universidade do Vale do Itajaí, Brasil<br>💭 Atualmente aprendendo Hacking
 
 
 ## 🌐 Social:
